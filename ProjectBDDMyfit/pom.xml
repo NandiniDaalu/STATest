@@ -61,7 +61,6 @@
     <artifactId>selenium-java</artifactId>
     <version>3.14.0</version>
 </dependency>
-
    
 	<dependency>
 	  <groupId>junit</groupId>
@@ -100,6 +99,9 @@
     	<includes>
     	<exclude>**/*Runner.java</exclude>
     	</includes>
+    	<suiteXmlFiles>
+    	   <suiteXmlFile>C:/Users/Nandi/git/STATest/ProjectBDDMyfit/crossbrowser.xml</suiteXmlFile>
+    	</suiteXmlFiles>
         </configuration>
       </plugin>
     </plugins>

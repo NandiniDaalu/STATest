@@ -1,0 +1,9 @@
+The things i would suggest on the login page will be 
+
+1. I as an user took couple of minutes to Join as a new user. It will be ideal if Join Now is below the LoginIn button 
+
+2. The first name and last name fields can take the string with space. for ex: First Name: Nand Ini (it still works),
+   Last Name: Ram mesh(it still works)
+   
+ 3. Email address field validation is not very appropriate. It can take invalid email addresses to join as 
+  a new/ existing user
